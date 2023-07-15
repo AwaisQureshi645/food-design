@@ -1,0 +1,59 @@
+*{
+    margin: 0    ;
+    padding: 0%;
+
+}
+.headerOuter{
+    background-image: url('https://newkit.moxcreative.com/travood/wp-content/uploads/sites/9/2022/07/bg_header.png');
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 40rem;
+    background-color: rgb(214, 214, 214);
+}
+.headerInner{
+    background-image: url('https://newkit.moxcreative.com/travood/wp-content/uploads/sites/9/2022/07/about_us.jpg');
+    background-repeat: none;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 32rem;
+}
+.frame{
+    width: 23%;
+    height: 60vh;
+    margin-top: 2rem;
+    border: 2px solid green;
+    /* margin-left: 2rem; */
+    margin-left: auto;
+    margin-right: auto;
+}
+.personbag{
+    width: 100%;
+    height: 40vh;
+}
+.iconss{
+display: flex;
+justify-content: center;
+
+}
+.languageBox{
+    width: 100%;
+    height: 60vh;
+    /* background-image: image('https://newkit.moxcreative.com/travood/wp-content/uploads/sites/9/2022/07/img_1.png'); */
+     background-color:#222222CC;
+
+}
+.visionBox{
+    width: 30rem;
+    height: 40vh;
+    border-radius: 1rem;
+    border: 2px solid  rgb(82, 79, 77);
+  margin-right: auto;
+  margin-left: 1rem;
+  background-color: wheat;
+  margin-top: -7rem;
+  margin-bottom: 2rem;
+
+}

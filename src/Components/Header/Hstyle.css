@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0%;
+    
+}
+.btn-warning{
+    width: 10rem;
+    border-radius: 1rem;
+    outline: none;
+    border: none;
+}
+.btn-warning:hover{
+    background-color: #222222EB;
+    color: white;
+}
+.himages{
+
+    width: 100%;
+    background-color: #222222EB;
+    height: 800px;
+     background-image: url('https://newkit.moxcreative.com/travood/wp-content/uploads/sites/9/2022/07/bg_header.png');
+ 
+}
+.innerImages{
+    background-image: url('https://newkit.moxcreative.com/travood/wp-content/uploads/sites/9/2022/07/img_1.png');
+   width: 100%;
+    height: 800px;
+    opacity: 1;
+}
+.headingH{
+    font-size: 5rem;
+    color: white;
+    padding-top: 15rem;
+    font-weight: bolder;
+}
+.burgarImage{
+    margin-top: 10rem;
+   
+}
+.RightHead{
+    display: flex;
+}
+.SpecialOffer{
+    width: 14rem;
+    height: 15rem;
+    background-color: orange;
+    border-radius: 50%;
+    padding: 0,2rem;
+    padding: 4rem;
+    margin-top: 13rem;
+}
